@@ -1,0 +1,9 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\while döngüsüyle hareket ettirme\while döngüsüyle hareket ettirme\bin\Debug\while döngüsüyle hareket ettirme.exe.config
+C:\Users\lab3-1\documents\visual studio 2012\Projects\while döngüsüyle hareket ettirme\while döngüsüyle hareket ettirme\bin\Debug\while döngüsüyle hareket ettirme.exe
+C:\Users\lab3-1\documents\visual studio 2012\Projects\while döngüsüyle hareket ettirme\while döngüsüyle hareket ettirme\bin\Debug\while döngüsüyle hareket ettirme.pdb
+C:\Users\lab3-1\documents\visual studio 2012\Projects\while döngüsüyle hareket ettirme\while döngüsüyle hareket ettirme\obj\Debug\while döngüsüyle hareket ettirme.csprojResolveAssemblyReference.cache
+C:\Users\lab3-1\documents\visual studio 2012\Projects\while döngüsüyle hareket ettirme\while döngüsüyle hareket ettirme\obj\Debug\while_döngüsüyle_hareket_ettirme.Form1.resources
+C:\Users\lab3-1\documents\visual studio 2012\Projects\while döngüsüyle hareket ettirme\while döngüsüyle hareket ettirme\obj\Debug\while_döngüsüyle_hareket_ettirme.Properties.Resources.resources
+C:\Users\lab3-1\documents\visual studio 2012\Projects\while döngüsüyle hareket ettirme\while döngüsüyle hareket ettirme\obj\Debug\while döngüsüyle hareket ettirme.csproj.GenerateResource.Cache
+C:\Users\lab3-1\documents\visual studio 2012\Projects\while döngüsüyle hareket ettirme\while döngüsüyle hareket ettirme\obj\Debug\while döngüsüyle hareket ettirme.exe
+C:\Users\lab3-1\documents\visual studio 2012\Projects\while döngüsüyle hareket ettirme\while döngüsüyle hareket ettirme\obj\Debug\while döngüsüyle hareket ettirme.pdb

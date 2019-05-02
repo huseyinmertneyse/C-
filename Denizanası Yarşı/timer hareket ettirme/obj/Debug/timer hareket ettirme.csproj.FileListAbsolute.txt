@@ -1,0 +1,36 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\timer hareket ettirme\timer hareket ettirme\bin\Debug\timer hareket ettirme.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\timer hareket ettirme\timer hareket ettirme\bin\Debug\timer hareket ettirme.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\timer hareket ettirme\timer hareket ettirme\bin\Debug\timer hareket ettirme.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\timer hareket ettirme\timer hareket ettirme\obj\Debug\timer hareket ettirme.csprojResolveAssemblyReference.cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\timer hareket ettirme\timer hareket ettirme\obj\Debug\timer_hareket_ettirme.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\timer hareket ettirme\timer hareket ettirme\obj\Debug\timer_hareket_ettirme.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\timer hareket ettirme\timer hareket ettirme\obj\Debug\timer hareket ettirme.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\timer hareket ettirme\timer hareket ettirme\obj\Debug\timer hareket ettirme.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\timer hareket ettirme\timer hareket ettirme\obj\Debug\timer hareket ettirme.pdb
+D:\ \Atölye\Denizanası Yarşı\timer hareket ettirme\bin\Debug\timer hareket ettirme.exe.config
+D:\ \Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer hareket ettirme.exe
+D:\ \Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer hareket ettirme.pdb
+D:\ \Atölye\Denizanası Yarşı\timer hareket ettirme\bin\Debug\timer hareket ettirme.exe
+D:\ \Atölye\Denizanası Yarşı\timer hareket ettirme\bin\Debug\timer hareket ettirme.pdb
+D:\ \Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer hareket ettirme.csprojResolveAssemblyReference.cache
+D:\ \Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer_hareket_ettirme.Form1.resources
+D:\ \Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer_hareket_ettirme.Properties.Resources.resources
+D:\ \Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer hareket ettirme.csproj.GenerateResource.Cache
+C:\Users\lab3-1\Desktop\Atölye\Denizanası Yarşı\timer hareket ettirme\bin\Debug\timer hareket ettirme.exe.config
+C:\Users\lab3-1\Desktop\Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer hareket ettirme.exe
+C:\Users\lab3-1\Desktop\Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer hareket ettirme.pdb
+C:\Users\lab3-1\Desktop\Atölye\Denizanası Yarşı\timer hareket ettirme\bin\Debug\timer hareket ettirme.exe
+C:\Users\lab3-1\Desktop\Atölye\Denizanası Yarşı\timer hareket ettirme\bin\Debug\timer hareket ettirme.pdb
+C:\Users\lab3-1\Desktop\Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer hareket ettirme.csprojResolveAssemblyReference.cache
+C:\Users\lab3-1\Desktop\Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer_hareket_ettirme.Form1.resources
+C:\Users\lab3-1\Desktop\Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer_hareket_ettirme.Properties.Resources.resources
+C:\Users\lab3-1\Desktop\Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer hareket ettirme.csproj.GenerateResource.Cache
+C:\Users\Ata\Desktop\Okul\Atölye\Denizanası Yarşı\timer hareket ettirme\bin\Debug\timer hareket ettirme.exe.config
+C:\Users\Ata\Desktop\Okul\Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer hareket ettirme.exe
+C:\Users\Ata\Desktop\Okul\Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer hareket ettirme.pdb
+C:\Users\Ata\Desktop\Okul\Atölye\Denizanası Yarşı\timer hareket ettirme\bin\Debug\timer hareket ettirme.exe
+C:\Users\Ata\Desktop\Okul\Atölye\Denizanası Yarşı\timer hareket ettirme\bin\Debug\timer hareket ettirme.pdb
+C:\Users\Ata\Desktop\Okul\Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer hareket ettirme.csprojResolveAssemblyReference.cache
+C:\Users\Ata\Desktop\Okul\Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer_hareket_ettirme.Form1.resources
+C:\Users\Ata\Desktop\Okul\Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer_hareket_ettirme.Properties.Resources.resources
+C:\Users\Ata\Desktop\Okul\Atölye\Denizanası Yarşı\timer hareket ettirme\obj\Debug\timer hareket ettirme.csproj.GenerateResource.Cache

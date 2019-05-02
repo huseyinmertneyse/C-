@@ -1,0 +1,9 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\7nin katına kadar üret\7nin katına kadar üret\bin\Debug\7nin katına kadar üret.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\7nin katına kadar üret\7nin katına kadar üret\bin\Debug\7nin katına kadar üret.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\7nin katına kadar üret\7nin katına kadar üret\bin\Debug\7nin katına kadar üret.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\7nin katına kadar üret\7nin katına kadar üret\obj\Debug\7nin katına kadar üret.csprojResolveAssemblyReference.cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\7nin katına kadar üret\7nin katına kadar üret\obj\Debug\_7nin_katına_kadar_üret.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\7nin katına kadar üret\7nin katına kadar üret\obj\Debug\_7nin_katına_kadar_üret.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\7nin katına kadar üret\7nin katına kadar üret\obj\Debug\7nin katına kadar üret.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\7nin katına kadar üret\7nin katına kadar üret\obj\Debug\7nin katına kadar üret.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\7nin katına kadar üret\7nin katına kadar üret\obj\Debug\7nin katına kadar üret.pdb

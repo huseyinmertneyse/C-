@@ -1,0 +1,12 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\Adres Oluşturma\Adres Oluşturma\bin\Debug\Adres Oluşturma.exe.config
+C:\Users\lab3-1\Documents\Visual Studio 2012\Projects\Adres Oluşturma\Adres Oluşturma\bin\Debug\Adres Oluşturma.exe
+C:\Users\lab3-1\Documents\Visual Studio 2012\Projects\Adres Oluşturma\Adres Oluşturma\bin\Debug\Adres Oluşturma.pdb
+C:\Users\lab3-1\Documents\Visual Studio 2012\Projects\Adres Oluşturma\Adres Oluşturma\obj\Debug\Adres Oluşturma.csprojResolveAssemblyReference.cache
+C:\Users\lab3-1\Documents\Visual Studio 2012\Projects\Adres Oluşturma\Adres Oluşturma\obj\Debug\Adres_Oluşturma.Form1.resources
+C:\Users\lab3-1\Documents\Visual Studio 2012\Projects\Adres Oluşturma\Adres Oluşturma\obj\Debug\Adres_Oluşturma.Properties.Resources.resources
+C:\Users\lab3-1\Documents\Visual Studio 2012\Projects\Adres Oluşturma\Adres Oluşturma\obj\Debug\Adres Oluşturma.csproj.GenerateResource.Cache
+C:\Users\lab3-1\Documents\Visual Studio 2012\Projects\Adres Oluşturma\Adres Oluşturma\obj\Debug\Adres Oluşturma.exe
+C:\Users\lab3-1\Documents\Visual Studio 2012\Projects\Adres Oluşturma\Adres Oluşturma\obj\Debug\Adres Oluşturma.pdb
+E:\ \Atölye\Adres Oluşturma\Adres Oluşturma\bin\Debug\Adres Oluşturma.exe.config
+E:\ \Atölye\Adres Oluşturma\Adres Oluşturma\obj\Debug\Adres Oluşturma.exe
+E:\ \Atölye\Adres Oluşturma\Adres Oluşturma\obj\Debug\Adres Oluşturma.pdb

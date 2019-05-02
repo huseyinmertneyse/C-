@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0 bulunca dur", "0 bulunca dur\0 bulunca dur.csproj", "{C4AB904E-9C01-4257-8ED9-CF93FA97A323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4AB904E-9C01-4257-8ED9-CF93FA97A323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4AB904E-9C01-4257-8ED9-CF93FA97A323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4AB904E-9C01-4257-8ED9-CF93FA97A323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4AB904E-9C01-4257-8ED9-CF93FA97A323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

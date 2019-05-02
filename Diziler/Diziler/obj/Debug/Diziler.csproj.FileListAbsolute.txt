@@ -1,0 +1,9 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\Diziler\Diziler\bin\Debug\Diziler.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\Diziler\Diziler\bin\Debug\Diziler.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\Diziler\Diziler\bin\Debug\Diziler.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\Diziler\Diziler\obj\Debug\Diziler.csprojResolveAssemblyReference.cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\Diziler\Diziler\obj\Debug\Diziler.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\Diziler\Diziler\obj\Debug\Diziler.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\Diziler\Diziler\obj\Debug\Diziler.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\Diziler\Diziler\obj\Debug\Diziler.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\Diziler\Diziler\obj\Debug\Diziler.pdb

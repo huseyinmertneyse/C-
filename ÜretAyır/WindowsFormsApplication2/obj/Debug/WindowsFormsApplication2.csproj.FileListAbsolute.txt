@@ -1,0 +1,18 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\ \Atölye\ÜretAyır\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\ \Atölye\ÜretAyır\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\ \Atölye\ÜretAyır\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\ \Atölye\ÜretAyır\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\ \Atölye\ÜretAyır\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\ \Atölye\ÜretAyır\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\ \Atölye\ÜretAyır\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\ \Atölye\ÜretAyır\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\ \Atölye\ÜretAyır\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

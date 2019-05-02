@@ -1,0 +1,9 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\0 bulunca dur\0 bulunca dur\bin\Debug\0 bulunca dur.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\0 bulunca dur\0 bulunca dur\bin\Debug\0 bulunca dur.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\0 bulunca dur\0 bulunca dur\bin\Debug\0 bulunca dur.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\0 bulunca dur\0 bulunca dur\obj\Debug\0 bulunca dur.csprojResolveAssemblyReference.cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\0 bulunca dur\0 bulunca dur\obj\Debug\_0_bulunca_dur.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\0 bulunca dur\0 bulunca dur\obj\Debug\_0_bulunca_dur.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\0 bulunca dur\0 bulunca dur\obj\Debug\0 bulunca dur.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\0 bulunca dur\0 bulunca dur\obj\Debug\0 bulunca dur.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\0 bulunca dur\0 bulunca dur\obj\Debug\0 bulunca dur.pdb

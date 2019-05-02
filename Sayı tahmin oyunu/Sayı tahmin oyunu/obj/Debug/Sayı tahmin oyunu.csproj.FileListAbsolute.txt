@@ -1,0 +1,21 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\Sayı tahmin oyunu\Sayı tahmin oyunu\bin\Debug\Sayı tahmin oyunu.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\Sayı tahmin oyunu\Sayı tahmin oyunu\bin\Debug\Sayı tahmin oyunu.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\Sayı tahmin oyunu\Sayı tahmin oyunu\bin\Debug\Sayı tahmin oyunu.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\Sayı tahmin oyunu.csprojResolveAssemblyReference.cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\Sayı_tahmin_oyunu.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\Sayı_tahmin_oyunu.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\Sayı tahmin oyunu.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\Sayı tahmin oyunu.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\Sayı tahmin oyunu.pdb
+D:\ \Atölye\Sayı tahmin oyunu\Sayı tahmin oyunu\bin\Debug\Sayı tahmin oyunu.exe.config
+D:\ \Atölye\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\Sayı tahmin oyunu.exe
+D:\ \Atölye\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\Sayı tahmin oyunu.pdb
+D:\ \Atölye\Sayı tahmin oyunu\Sayı tahmin oyunu\bin\Debug\Sayı tahmin oyunu.exe
+D:\ \Atölye\Sayı tahmin oyunu\Sayı tahmin oyunu\bin\Debug\Sayı tahmin oyunu.pdb
+D:\ \Atölye\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\Sayı tahmin oyunu.csprojResolveAssemblyReference.cache
+D:\ \Atölye\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\Sayı_tahmin_oyunu.Form1.resources
+D:\ \Atölye\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\Sayı_tahmin_oyunu.Properties.Resources.resources
+D:\ \Atölye\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\Sayı tahmin oyunu.csproj.GenerateResource.Cache
+E:\ \Atölye\Sayı tahmin oyunu\Sayı tahmin oyunu\bin\Debug\Sayı tahmin oyunu.exe.config
+E:\ \Atölye\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\Sayı tahmin oyunu.exe
+E:\ \Atölye\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\Sayı tahmin oyunu.pdb

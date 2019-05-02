@@ -1,0 +1,20 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\örenek 2\örenek 2\bin\Debug\örenek 2.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\örenek 2\örenek 2\bin\Debug\örenek 2.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\örenek 2\örenek 2\bin\Debug\örenek 2.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\örenek 2\örenek 2\obj\Debug\örenek_2.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\örenek 2\örenek 2\obj\Debug\örenek_2.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\örenek 2\örenek 2\obj\Debug\örenek 2.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\örenek 2\örenek 2\obj\Debug\örenek 2.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\örenek 2\örenek 2\obj\Debug\örenek 2.pdb
+C:\Users\lab3-1\Desktop\Atölye\hesap makinesi\örenek 2\bin\Debug\örenek 2.exe.config
+C:\Users\lab3-1\Desktop\Atölye\hesap makinesi\örenek 2\obj\Debug\örenek 2.exe
+C:\Users\lab3-1\Desktop\Atölye\hesap makinesi\örenek 2\obj\Debug\örenek 2.pdb
+E:\ \Atölye\hesap makinesi\örenek 2\bin\Debug\örenek 2.exe.config
+E:\ \Atölye\hesap makinesi\örenek 2\obj\Debug\örenek 2.exe
+E:\ \Atölye\hesap makinesi\örenek 2\obj\Debug\örenek 2.pdb
+E:\ \Atölye\hesap makinesi\örenek 2\bin\Debug\örenek 2.exe
+E:\ \Atölye\hesap makinesi\örenek 2\bin\Debug\örenek 2.pdb
+E:\ \Atölye\hesap makinesi\örenek 2\obj\Debug\örenek 2.csprojResolveAssemblyReference.cache
+E:\ \Atölye\hesap makinesi\örenek 2\obj\Debug\örenek_2.Form1.resources
+E:\ \Atölye\hesap makinesi\örenek 2\obj\Debug\örenek_2.Properties.Resources.resources
+E:\ \Atölye\hesap makinesi\örenek 2\obj\Debug\örenek 2.csproj.GenerateResource.Cache

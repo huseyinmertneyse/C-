@@ -1,0 +1,9 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\ortalamayı 5lik not sistemin dönüştürme\ortalamayı 5lik not sistemin dönüştürme\bin\Debug\ortalamayı 5lik not sistemin dönüştürme.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\ortalamayı 5lik not sistemin dönüştürme\ortalamayı 5lik not sistemin dönüştürme\bin\Debug\ortalamayı 5lik not sistemin dönüştürme.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\ortalamayı 5lik not sistemin dönüştürme\ortalamayı 5lik not sistemin dönüştürme\bin\Debug\ortalamayı 5lik not sistemin dönüştürme.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\ortalamayı 5lik not sistemin dönüştürme\ortalamayı 5lik not sistemin dönüştürme\obj\Debug\ortalamayı 5lik not sistemin dönüştürme.csprojResolveAssemblyReference.cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\ortalamayı 5lik not sistemin dönüştürme\ortalamayı 5lik not sistemin dönüştürme\obj\Debug\ortalamayı_5lik_not_sistemin_dönüştürme.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\ortalamayı 5lik not sistemin dönüştürme\ortalamayı 5lik not sistemin dönüştürme\obj\Debug\ortalamayı_5lik_not_sistemin_dönüştürme.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\ortalamayı 5lik not sistemin dönüştürme\ortalamayı 5lik not sistemin dönüştürme\obj\Debug\ortalamayı 5lik not sistemin dönüştürme.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\ortalamayı 5lik not sistemin dönüştürme\ortalamayı 5lik not sistemin dönüştürme\obj\Debug\ortalamayı 5lik not sistemin dönüştürme.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\ortalamayı 5lik not sistemin dönüştürme\ortalamayı 5lik not sistemin dönüştürme\obj\Debug\ortalamayı 5lik not sistemin dönüştürme.pdb

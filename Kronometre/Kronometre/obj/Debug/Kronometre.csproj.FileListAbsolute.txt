@@ -1,0 +1,8 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\Kronometre\Kronometre\bin\Debug\Kronometre.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\Kronometre\Kronometre\bin\Debug\Kronometre.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\Kronometre\Kronometre\bin\Debug\Kronometre.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\Kronometre\Kronometre\obj\Debug\Kronometre.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\Kronometre\Kronometre\obj\Debug\Kronometre.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\Kronometre\Kronometre\obj\Debug\Kronometre.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\Kronometre\Kronometre\obj\Debug\Kronometre.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\Kronometre\Kronometre\obj\Debug\Kronometre.pdb

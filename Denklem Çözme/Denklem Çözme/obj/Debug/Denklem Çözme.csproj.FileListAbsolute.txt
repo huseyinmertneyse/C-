@@ -1,0 +1,9 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\Denklem Çözme\Denklem Çözme\bin\Debug\Denklem Çözme.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\Denklem Çözme\Denklem Çözme\obj\Debug\Denklem Çözme.csprojResolveAssemblyReference.cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\Denklem Çözme\Denklem Çözme\obj\Debug\Denklem_Çözme.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\Denklem Çözme\Denklem Çözme\obj\Debug\Denklem_Çözme.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\Denklem Çözme\Denklem Çözme\obj\Debug\Denklem Çözme.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\Denklem Çözme\Denklem Çözme\bin\Debug\Denklem Çözme.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\Denklem Çözme\Denklem Çözme\bin\Debug\Denklem Çözme.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\Denklem Çözme\Denklem Çözme\obj\Debug\Denklem Çözme.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\Denklem Çözme\Denklem Çözme\obj\Debug\Denklem Çözme.pdb

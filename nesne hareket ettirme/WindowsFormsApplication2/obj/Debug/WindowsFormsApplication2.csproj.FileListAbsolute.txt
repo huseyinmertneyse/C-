@@ -1,0 +1,19 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\lab3_1\Documents\Visual Studio 2012\Projects\nesne hareket ettirme\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\lab3_1\Documents\Visual Studio 2012\Projects\nesne hareket ettirme\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\lab3_1\Documents\Visual Studio 2012\Projects\nesne hareket ettirme\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\lab3_1\Documents\Visual Studio 2012\Projects\nesne hareket ettirme\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\lab3_1\Documents\Visual Studio 2012\Projects\nesne hareket ettirme\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\lab3_1\Documents\Visual Studio 2012\Projects\nesne hareket ettirme\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\lab3_1\Documents\Visual Studio 2012\Projects\nesne hareket ettirme\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\lab3_1\Documents\Visual Studio 2012\Projects\nesne hareket ettirme\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\ \Atölye\nesne hareket ettirme\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\ \Atölye\nesne hareket ettirme\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\ \Atölye\nesne hareket ettirme\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

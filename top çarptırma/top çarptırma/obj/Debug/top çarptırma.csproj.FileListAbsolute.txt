@@ -1,0 +1,21 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\top çarptırma\top çarptırma\bin\Debug\top çarptırma.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\top çarptırma\top çarptırma\bin\Debug\top çarptırma.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\top çarptırma\top çarptırma\bin\Debug\top çarptırma.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\top çarptırma\top çarptırma\obj\Debug\top çarptırma.csprojResolveAssemblyReference.cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\top çarptırma\top çarptırma\obj\Debug\top_çarptırma.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\top çarptırma\top çarptırma\obj\Debug\top_çarptırma.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\top çarptırma\top çarptırma\obj\Debug\top çarptırma.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\top çarptırma\top çarptırma\obj\Debug\top çarptırma.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\top çarptırma\top çarptırma\obj\Debug\top çarptırma.pdb
+D:\ \Atölye\top çarptırma\top çarptırma\bin\Debug\top çarptırma.exe.config
+D:\ \Atölye\top çarptırma\top çarptırma\obj\Debug\top çarptırma.exe
+D:\ \Atölye\top çarptırma\top çarptırma\obj\Debug\top çarptırma.pdb
+C:\Users\Ata\Desktop\Okul\Atölye\top çarptırma\top çarptırma\bin\Debug\top çarptırma.exe.config
+C:\Users\Ata\Desktop\Okul\Atölye\top çarptırma\top çarptırma\obj\Debug\top çarptırma.exe
+C:\Users\Ata\Desktop\Okul\Atölye\top çarptırma\top çarptırma\obj\Debug\top çarptırma.pdb
+C:\Users\Ata\Desktop\Okul\Atölye\top çarptırma\top çarptırma\bin\Debug\top çarptırma.exe
+C:\Users\Ata\Desktop\Okul\Atölye\top çarptırma\top çarptırma\bin\Debug\top çarptırma.pdb
+C:\Users\Ata\Desktop\Okul\Atölye\top çarptırma\top çarptırma\obj\Debug\top çarptırma.csprojResolveAssemblyReference.cache
+C:\Users\Ata\Desktop\Okul\Atölye\top çarptırma\top çarptırma\obj\Debug\top_çarptırma.Form1.resources
+C:\Users\Ata\Desktop\Okul\Atölye\top çarptırma\top çarptırma\obj\Debug\top_çarptırma.Properties.Resources.resources
+C:\Users\Ata\Desktop\Okul\Atölye\top çarptırma\top çarptırma\obj\Debug\top çarptırma.csproj.GenerateResource.Cache

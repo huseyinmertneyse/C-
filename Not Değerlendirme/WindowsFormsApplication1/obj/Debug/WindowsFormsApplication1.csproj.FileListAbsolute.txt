@@ -1,0 +1,15 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\ \Atölye\Not Değerlendirme\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\ \Atölye\Not Değerlendirme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\ \Atölye\Not Değerlendirme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\istanbul\Desktop\Okul\Atölye\Not Değerlendirme\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\istanbul\Desktop\Okul\Atölye\Not Değerlendirme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\istanbul\Desktop\Okul\Atölye\Not Değerlendirme\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

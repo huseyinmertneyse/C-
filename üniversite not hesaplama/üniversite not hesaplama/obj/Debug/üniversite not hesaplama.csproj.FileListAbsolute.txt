@@ -1,0 +1,12 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\üniversite not hesaplama\üniversite not hesaplama\bin\Debug\üniversite not hesaplama.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\üniversite not hesaplama\üniversite not hesaplama\bin\Debug\üniversite not hesaplama.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\üniversite not hesaplama\üniversite not hesaplama\bin\Debug\üniversite not hesaplama.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite not hesaplama.csprojResolveAssemblyReference.cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite_not_hesaplama.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite_not_hesaplama.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite not hesaplama.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite not hesaplama.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite not hesaplama.pdb
+E:\ \Atölye\üniversite not hesaplama\üniversite not hesaplama\bin\Debug\üniversite not hesaplama.exe.config
+E:\ \Atölye\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite not hesaplama.exe
+E:\ \Atölye\üniversite not hesaplama\üniversite not hesaplama\obj\Debug\üniversite not hesaplama.pdb

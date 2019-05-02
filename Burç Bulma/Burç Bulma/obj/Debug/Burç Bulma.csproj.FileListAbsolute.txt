@@ -1,0 +1,30 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\Burç Bulma\Burç Bulma\bin\Debug\Burç Bulma.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\Burç Bulma\Burç Bulma\obj\Debug\Burç Bulma.csprojResolveAssemblyReference.cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\Burç Bulma\Burç Bulma\obj\Debug\Burç_Bulma.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\Burç Bulma\Burç Bulma\obj\Debug\Burç_Bulma.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\Burç Bulma\Burç Bulma\obj\Debug\Burç Bulma.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\Burç Bulma\Burç Bulma\bin\Debug\Burç Bulma.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\Burç Bulma\Burç Bulma\bin\Debug\Burç Bulma.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\Burç Bulma\Burç Bulma\obj\Debug\Burç Bulma.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\Burç Bulma\Burç Bulma\obj\Debug\Burç Bulma.pdb
+D:\ \Burç Bulma\Burç Bulma\bin\Debug\Burç Bulma.exe.config
+D:\ \Burç Bulma\Burç Bulma\obj\Debug\Burç Bulma.exe
+D:\ \Burç Bulma\Burç Bulma\obj\Debug\Burç Bulma.pdb
+D:\ \Burç Bulma\Burç Bulma\bin\Debug\Burç Bulma.exe
+D:\ \Burç Bulma\Burç Bulma\bin\Debug\Burç Bulma.pdb
+D:\ \Burç Bulma\Burç Bulma\obj\Debug\Burç Bulma.csprojResolveAssemblyReference.cache
+D:\ \Burç Bulma\Burç Bulma\obj\Debug\Burç_Bulma.Form1.resources
+D:\ \Burç Bulma\Burç Bulma\obj\Debug\Burç_Bulma.Properties.Resources.resources
+D:\ \Burç Bulma\Burç Bulma\obj\Debug\Burç Bulma.csproj.GenerateResource.Cache
+E:\ \Atölye\Burç Bulma\Burç Bulma\bin\Debug\Burç Bulma.exe.config
+E:\ \Atölye\Burç Bulma\Burç Bulma\obj\Debug\Burç Bulma.exe
+E:\ \Atölye\Burç Bulma\Burç Bulma\obj\Debug\Burç Bulma.pdb
+D:\ \Atölye\Burç Bulma\Burç Bulma\bin\Debug\Burç Bulma.exe.config
+D:\ \Atölye\Burç Bulma\Burç Bulma\obj\Debug\Burç Bulma.exe
+D:\ \Atölye\Burç Bulma\Burç Bulma\obj\Debug\Burç Bulma.pdb
+D:\ \Atölye\Burç Bulma\Burç Bulma\bin\Debug\Burç Bulma.exe
+D:\ \Atölye\Burç Bulma\Burç Bulma\bin\Debug\Burç Bulma.pdb
+D:\ \Atölye\Burç Bulma\Burç Bulma\obj\Debug\Burç Bulma.csprojResolveAssemblyReference.cache
+D:\ \Atölye\Burç Bulma\Burç Bulma\obj\Debug\Burç_Bulma.Form1.resources
+D:\ \Atölye\Burç Bulma\Burç Bulma\obj\Debug\Burç_Bulma.Properties.Resources.resources
+D:\ \Atölye\Burç Bulma\Burç Bulma\obj\Debug\Burç Bulma.csproj.GenerateResource.Cache

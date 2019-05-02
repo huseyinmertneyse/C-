@@ -1,0 +1,9 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\Salısal loto kodu\Salısal loto kodu\bin\Debug\Salısal loto kodu.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\Salısal loto kodu\Salısal loto kodu\bin\Debug\Salısal loto kodu.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\Salısal loto kodu\Salısal loto kodu\bin\Debug\Salısal loto kodu.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\Salısal loto kodu\Salısal loto kodu\obj\Debug\Salısal loto kodu.csprojResolveAssemblyReference.cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\Salısal loto kodu\Salısal loto kodu\obj\Debug\Salısal_loto_kodu.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\Salısal loto kodu\Salısal loto kodu\obj\Debug\Salısal_loto_kodu.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\Salısal loto kodu\Salısal loto kodu\obj\Debug\Salısal loto kodu.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\Salısal loto kodu\Salısal loto kodu\obj\Debug\Salısal loto kodu.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\Salısal loto kodu\Salısal loto kodu\obj\Debug\Salısal loto kodu.pdb

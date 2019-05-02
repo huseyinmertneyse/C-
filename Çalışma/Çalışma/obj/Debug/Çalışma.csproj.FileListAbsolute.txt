@@ -1,0 +1,9 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\Çalışma\Çalışma\bin\Debug\Çalışma.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\Çalışma\Çalışma\bin\Debug\Çalışma.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\Çalışma\Çalışma\bin\Debug\Çalışma.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\Çalışma\Çalışma\obj\Debug\Çalışma.csprojResolveAssemblyReference.cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\Çalışma\Çalışma\obj\Debug\Çalışma.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\Çalışma\Çalışma\obj\Debug\Çalışma.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\Çalışma\Çalışma\obj\Debug\Çalışma.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\Çalışma\Çalışma\obj\Debug\Çalışma.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\Çalışma\Çalışma\obj\Debug\Çalışma.pdb

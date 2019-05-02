@@ -1,0 +1,9 @@
+c:\users\lab3-1\documents\visual studio 2012\Projects\ARASINDAKİ SAYILARI TOPLAMA\ARASINDAKİ SAYILARI TOPLAMA\bin\Debug\ARASINDAKİ SAYILARI TOPLAMA.exe.config
+c:\users\lab3-1\documents\visual studio 2012\Projects\ARASINDAKİ SAYILARI TOPLAMA\ARASINDAKİ SAYILARI TOPLAMA\bin\Debug\ARASINDAKİ SAYILARI TOPLAMA.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\ARASINDAKİ SAYILARI TOPLAMA\ARASINDAKİ SAYILARI TOPLAMA\bin\Debug\ARASINDAKİ SAYILARI TOPLAMA.pdb
+c:\users\lab3-1\documents\visual studio 2012\Projects\ARASINDAKİ SAYILARI TOPLAMA\ARASINDAKİ SAYILARI TOPLAMA\obj\Debug\ARASINDAKİ SAYILARI TOPLAMA.csprojResolveAssemblyReference.cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\ARASINDAKİ SAYILARI TOPLAMA\ARASINDAKİ SAYILARI TOPLAMA\obj\Debug\ARASINDAKİ_SAYILARI_TOPLAMA.Form1.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\ARASINDAKİ SAYILARI TOPLAMA\ARASINDAKİ SAYILARI TOPLAMA\obj\Debug\ARASINDAKİ_SAYILARI_TOPLAMA.Properties.Resources.resources
+c:\users\lab3-1\documents\visual studio 2012\Projects\ARASINDAKİ SAYILARI TOPLAMA\ARASINDAKİ SAYILARI TOPLAMA\obj\Debug\ARASINDAKİ SAYILARI TOPLAMA.csproj.GenerateResource.Cache
+c:\users\lab3-1\documents\visual studio 2012\Projects\ARASINDAKİ SAYILARI TOPLAMA\ARASINDAKİ SAYILARI TOPLAMA\obj\Debug\ARASINDAKİ SAYILARI TOPLAMA.exe
+c:\users\lab3-1\documents\visual studio 2012\Projects\ARASINDAKİ SAYILARI TOPLAMA\ARASINDAKİ SAYILARI TOPLAMA\obj\Debug\ARASINDAKİ SAYILARI TOPLAMA.pdb
